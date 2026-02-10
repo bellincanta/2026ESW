@@ -1,10 +1,9 @@
 # Termo de Aula — Regras de Funcionamento e Convivência
 
 **Disciplina:** Engenharia de Software  
-**Professor:** Nelson Bellincanta Filho  
-**Turma:** ________  **Ano/Semestre:** ________  
+**Professor:** Dr. Nelson Bellincanta Filho  
 **Versão:** 1.1  
-**Última atualização:** ____/____/______
+**Última atualização:** 09/02/2026
 
 Este termo define regras de funcionamento e convivência para garantir organização, respeito e bom andamento das atividades em sala.
 
