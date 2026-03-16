@@ -34,7 +34,7 @@
 - O mundo moderno **não funciona** sem software.
 - A produção e distribuição industriais são completamente **informatizadas**, assim como o **sistema financeiro**.
 - O setor de entretenimento — incluindo a música, os jogos de computador, o cinema e a televisão — usa software intensivamente.
-- Mais de **75%** da população mundial possui um **telefone celular** controlado por software.
+- **70%** da população mundial possui um **telefone celular** controlado por software.
 
 ---
 
