@@ -48,5 +48,5 @@ Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compro
 
 ---
 
-## Apresentação da disciplina
-- [Abrir: Apresentação da Disciplina — Engenharia de Software](../apresentacaoDisciplina_v1_1.md)
+## Aulas (links)
+- [Aula 01](./aulas/aula01/introducao_engenharia_software.md)
