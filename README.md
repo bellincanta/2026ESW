@@ -41,6 +41,16 @@ Este termo define regras de funcionamento e convivência para garantir organiza�
 
 ---
 
+## Avaliação
+| Conceito | Faixa de nota correspondente |
+|---|---|
+| **A** | **9,0 – 10,0** |
+| **B** | **7,0 – 8,9** |
+| **C** | **5,0 – 6,9** |
+| **D** | **Abaixo de 4,9** |
+
+---
+
 ## Ciência
 Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compromete-se a cumpri-lo.
 
