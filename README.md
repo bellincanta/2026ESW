@@ -48,5 +48,11 @@ Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compro
 
 ---
 
-## Aulas (links)
+## Materiais da disciplina
+
+### Aulas
 - [Aula 01](./aulas/aula01/introducao_engenharia_software.md)
+- [Aula 02](./aulas/aula02/README.md)
+
+### Atividades
+- [Atividade 01](./atv01.md)
