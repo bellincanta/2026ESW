@@ -62,7 +62,7 @@ Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compro
 
 ### Aulas
 - [Aula 01](./aulas/aula01/introducao_engenharia_software.md)
-- 
+
 
 ### Atividades
 - [Atividade 01](./atividades/atv01/atv01.md)
