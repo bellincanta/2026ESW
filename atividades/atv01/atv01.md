@@ -87,7 +87,14 @@ Esses elementos mostram que a Engenharia de Software envolve planejamento, anál
 
 ---
 
-### 9. Critérios de avaliação
+
+### 9. Integridade acadêmica
+
+As atividades entregues serão submetidas a ferramentas de verificação de **plágio** e de **uso de Inteligência Artificial (IA)**. Trabalhos em que forem identificados indícios de plágio ou de uso de IA receberão **conceito D**.
+
+---
+
+### 10. Critérios de avaliação
 
 A atividade poderá ser avaliada com base nos seguintes critérios:
 
@@ -101,7 +108,7 @@ A atividade poderá ser avaliada com base nos seguintes critérios:
 
 ---
 
-### 10. Sugestão de estrutura para a resposta do aluno
+### 11. Sugestão de estrutura para a resposta do aluno
 
 O texto pode ser organizado da seguinte forma:
 
@@ -116,7 +123,7 @@ Finalize com uma reflexão sobre por que a Engenharia de Software é importante 
 
 ---
 
-### 11. Orientação final ao estudante
+### 12. Orientação final ao estudante
 
 Nesta atividade, o mais importante não é decorar termos técnicos, mas perceber que o desenvolvimento de software exige organização, análise, revisão, testes e responsabilidade. O caso apresentado no artigo mostra que falhas graves podem acontecer quando essas etapas não recebem a devida atenção.
 
