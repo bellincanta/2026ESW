@@ -23,7 +23,7 @@ Ao final da atividade, espera-se que o estudante seja capaz de:
 
 ### 3. Artigo-base
 
-**Texto para leitura:** *Ariane 5 Flight 501 Failure Report*
+**Texto para leitura:** [*Ariane 5 Flight 501 Failure Report*](./RelatorioOficial.pdf)
 
 ---
 
