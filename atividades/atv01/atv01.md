@@ -83,7 +83,7 @@ Esses elementos mostram que a Engenharia de Software envolve planejamento, anál
 - **Formato do texto:** síntese escrita;
 - **Extensão sugerida:** de **1 a 2 páginas**;
 - **Linguagem:** clara, objetiva e formal;
-- **Entrega:** até **30/03**, às **23:59**.
+- **Entrega:** o trabalho deve ser entregue em **formato .pdf** pelo **Google Classroom**, até **30/03**, às **23:59**.
 
 ---
 
