@@ -1,1 +1,0 @@
-# Se já existiam programadores, por que foi necessário criar a Engenharia de Software?
