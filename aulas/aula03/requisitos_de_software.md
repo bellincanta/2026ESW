@@ -103,7 +103,7 @@ Um bom requisito funcional deve conter:
 
 ### Tipos de Funções
 
-[Tipos de Funções](funcao_sistema_requisitos.svg)
+![Tipos de Funções](funcao_sistema_requisitos.svg)
 
 
 ### Exemplos Práticos
