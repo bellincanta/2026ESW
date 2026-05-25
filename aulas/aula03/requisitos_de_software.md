@@ -91,16 +91,16 @@ Requisitos que **definem as funções** que o sistema deve fornecer, descrevendo
 
 Um bom requisito funcional deve conter:
 
-1. **📝 Descrição de uma função a ser executada pelo sistema**
+1. **Descrição de uma função a ser executada pelo sistema**
    - Usualmente entrada, saída ou transformação da informação
 
-2. **👤 Origem do requisito**
+2. **Origem do requisito**
    - Quem solicitou e/ou quem vai executar a função
 
-3. **⬌ Informações de entrada e saída**
+3. **Informações de entrada e saída**
    - Quais dados são passados do sistema para o usuário e vice-versa
 
-4. **⚙️ Restrições aplicáveis**
+4. **Restrições aplicáveis**
    - Regras de negócio ou restrições tecnológicas
 
 ### Tipos de Funções
@@ -148,10 +148,10 @@ Requisitos que **não estão diretamente relacionados** com os serviços especí
 
 Os requisitos não-funcionais surgem de:
 
-- 💰 **Restrições de orçamento**
-- 📋 **Políticas organizacionais**
-- 🔗 **Interoperabilidade** com outros sistemas
-- 📜 **Legislação e regulações** (segurança, privacidade)
+- **Restrições de orçamento**
+- **Políticas organizacionais**
+- **Interoperabilidade** com outros sistemas
+- **Legislação e regulações** (segurança, privacidade)
 
 ---
 
@@ -159,35 +159,31 @@ Os requisitos não-funcionais surgem de:
 
 ### Segundo Sommerville (2011)
 
-```
-┌────────────────────────────────────┐
-│  REQUISITOS NÃO-FUNCIONAIS        │
-└───────┬──────────────┬──────────────┘
-        │              │              
-        ▼              ▼              ▼
-    ┌────────┐  ┌──────────────┐  ┌─────────┐
-    │PRODUTO │  │ORGANIZACIONAIS│ │EXTERNOS │
-    └────────┘  └──────────────┘  └─────────┘
-```
+![Tipos de requisitos não funcionais](tiposReqNFunc.png)
+
+
+**Figura 1** - Tipos de requisitos não funcionais
+**Fonte:** SOMMERVILLE, I. (2018). *Engenharia de Software*. 10ª edição. Pearson.
+
 
 ### 1️⃣ Requisitos de Produto
 
 Especificam o **comportamento do produto**:
 
-- **📱 Usabilidade**
+- ** Usabilidade**
   - Interface intuitiva e fácil de usar
   - Requisitos de desempenho
   - Requisitos de espaço
 
-- **⚡ Eficiência**
+- ** Eficiência**
   - Tempo de resposta otimizado
   - Uso de memória controlado
 
-- **🔐 Confiabilidade**
+- ** Confiabilidade**
   - Disponibilidade do sistema
   - Taxa de falhas aceitável
 
-- **🛡️ Proteção**
+- ** Proteção**
   - Acesso restrito a usuários autorizados
   - Criptografia de dados sensíveis
 
@@ -195,15 +191,15 @@ Especificam o **comportamento do produto**:
 
 Derivados de **políticas e procedimentos** da organização:
 
-- **📋 Requisitos Operacionais**
+- **Requisitos Operacionais**
   - Procedimentos de uso e manutenção
   - Documentação necessária
 
-- **🌍 Requisitos Ambientais**
+- **Requisitos Ambientais**
   - Ambiente de operação do sistema
   - Compatibilidade com infraestrutura
 
-- **📅 Requisitos de Desenvolvimento**
+- **Requisitos de Desenvolvimento**
   - Prazos definidos
   - Tecnologias aprovadas
   - Padrões de código
@@ -212,15 +208,15 @@ Derivados de **políticas e procedimentos** da organização:
 
 Procedentes de **fatores externos** ao sistema:
 
-- **⚖️ Requisitos Reguladores**
+- **Requisitos Reguladores**
   - Conformidade com leis e normas
   - Certificações necessárias
 
-- **📋 Requisitos Legais**
+- **Requisitos Legais**
   - Requisitos contábeis
   - Segurança e proteção de dados
 
-- **💭 Requisitos Éticos**
+- **Requisitos Éticos**
   - Responsabilidade social
   - Impacto ambiental
 
@@ -276,12 +272,12 @@ Procedentes de **fatores externos** ao sistema:
 
 ### Requisitos de Sistema - Não-Funcionais
 
-- 🔐 **Segurança:** Acesso restrito por credenciais e autenticação de dois fatores
-- ⏱️ **Performance:** Geração de relatório em no máximo 5 minutos
-- 📜 **Conformidade:** Seguir LGPD e regulações de saúde (ANVISA)
-- 💾 **Armazenamento:** Manter histórico de 5 anos com backup diário
-- 🔄 **Disponibilidade:** Sistema disponível 24/7 com redundância
-- 📊 **Integridade:** Validação de dados com checksums
+- **Segurança:** Acesso restrito por credenciais e autenticação de dois fatores
+- **Performance:** Geração de relatório em no máximo 5 minutos
+- **Conformidade:** Seguir LGPD e regulações de saúde (ANVISA)
+- **Armazenamento:** Manter histórico de 5 anos com backup diário
+- **Disponibilidade:** Sistema disponível 24/7 com redundância
+- **Integridade:** Validação de dados com checksums
 
 ---
 
@@ -317,7 +313,7 @@ Antes de finalizar seus requisitos, verifique:
 
 ---
 
-## 📚 Referências
+## Referências
 
 - **Sommerville, I.** (2018). *Engenharia de Software*. 10ª edição. Pearson.
 - **Pressman, R. S.** (2010). *Engenharia de Software: uma abordagem profissional*. McGraw-Hill.
