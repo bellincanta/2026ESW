@@ -103,17 +103,8 @@ Um bom requisito funcional deve conter:
 
 ### Tipos de Funções
 
-```
-┌──────────────────────┐
-│  FUNÇÃO NO SISTEMA   │
-├──────────────────────┤
-│                      │
-│ ENTRADA              │ SAÍDA
-│ Ex: Cadastrar        │ Ex: Emitir
-│     comprador        │     relatório
-│                      │
-└──────────────────────┘
-```
+[Tipos de Funções](funcao_sistema_requisitos.svg)
+
 
 ### Exemplos Práticos
 

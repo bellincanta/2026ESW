@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 680 300" role="img" style="" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Diagrama de Função no Sistema</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Ilustração mostrando como uma função no sistema processa entrada e produz saída</desc>
+  
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="var(--color-text-primary)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  
+  <!-- Container principal com gradient sutil -->
+  <rect x="80" y="50" width="520" height="200" rx="12" fill="var(--color-background-secondary)" stroke="var(--color-border-primary)" stroke-width="2" style="fill:rgb(245, 244, 237);stroke:rgba(31, 30, 29, 0.4);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  
+  <!-- Título -->
+  <text x="340" y="85" text-anchor="middle" fill="var(--color-text-primary)" style="fill:rgb(20, 20, 19);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:auto">Função no Sistema</text>
+  
+  <!-- Separador -->
+  <line x1="100" y1="100" x2="580" y2="100" stroke="var(--color-border-secondary)" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgba(31, 30, 29, 0.3);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  
+  <!-- Seção ENTRADA (Esquerda) -->
+  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- Ícone/Container Entrada -->
+    <rect x="100" y="130" width="160" height="100" rx="8" fill="var(--color-background-primary)" stroke="var(--color-border-secondary)" stroke-width="1.5" stroke-dasharray="5,5" style="fill:rgb(255, 255, 255);stroke:rgba(31, 30, 29, 0.3);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-dasharray:5px, 5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    
+    <!-- Texto ENTRADA -->
+    <text x="180" y="155" text-anchor="middle" fill="var(--color-text-primary)" style="fill:rgb(20, 20, 19);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:auto">ENTRADA</text>
+    
+    <!-- Exemplo -->
+    <text x="180" y="185" text-anchor="middle" fill="var(--color-text-secondary)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Ex: Cadastrar</text>
+    <text x="180" y="205" text-anchor="middle" fill="var(--color-text-secondary)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">comprador</text>
+  </g>
+  
+  <!-- Seta Central -->
+  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- Linha com seta -->
+    <line x1="270" y1="180" x2="410" y2="180" stroke="var(--color-text-primary)" stroke-width="2" marker-end="url(#arrow)" style="fill:rgb(0, 0, 0);stroke:rgb(20, 20, 19);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    
+    <!-- Texto na seta -->
+    <text x="340" y="168" text-anchor="middle" fill="var(--color-text-secondary)" font-style="italic" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;font-style:italic;text-anchor:middle;dominant-baseline:auto">processa</text>
+  </g>
+  
+  <!-- Seção SAÍDA (Direita) -->
+  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- Container Saída -->
+    <rect x="420" y="130" width="160" height="100" rx="8" fill="var(--color-background-primary)" stroke="var(--color-border-secondary)" stroke-width="1.5" stroke-dasharray="5,5" style="fill:rgb(255, 255, 255);stroke:rgba(31, 30, 29, 0.3);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-dasharray:5px, 5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    
+    <!-- Texto SAÍDA -->
+    <text x="500" y="155" text-anchor="middle" fill="var(--color-text-primary)" style="fill:rgb(20, 20, 19);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:auto">SAÍDA</text>
+    
+    <!-- Exemplo -->
+    <text x="500" y="185" text-anchor="middle" fill="var(--color-text-secondary)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Ex: Emitir</text>
+    <text x="500" y="205" text-anchor="middle" fill="var(--color-text-secondary)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">relatório</text>
+  </g>
+  
+  <!-- Nota explicativa -->
+  <text x="340" y="265" text-anchor="middle" fill="var(--color-text-secondary)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">O sistema transforma dados de entrada em informações de saída</text>
+</svg>
