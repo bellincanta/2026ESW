@@ -159,20 +159,20 @@ Os requisitos não-funcionais surgem de:
 
 Especificam o **comportamento do produto**:
 
-- ** Usabilidade**
+- **Usabilidade**
   - Interface intuitiva e fácil de usar
   - Requisitos de desempenho
   - Requisitos de espaço
 
-- ** Eficiência**
+- **Eficiência**
   - Tempo de resposta otimizado
   - Uso de memória controlado
 
-- ** Confiabilidade**
+- **Confiabilidade**
   - Disponibilidade do sistema
   - Taxa de falhas aceitável
 
-- ** Proteção**
+- **Proteção**
   - Acesso restrito a usuários autorizados
   - Criptografia de dados sensíveis
 
