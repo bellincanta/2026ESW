@@ -45,8 +45,6 @@ A **engenharia de requisitos** é o processo de:
 
 ---
 
-### Hierarquia de Requisitos
-
 Na prática, o termo **requisito** é frequentemente utilizado de formas distintas dentro de um projeto:
 
 - Em alguns contextos, refere-se a **declarações abstratas e genéricas** de alto nível, descrevendo o que o sistema deve fazer de forma ampla;
