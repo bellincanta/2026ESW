@@ -45,9 +45,6 @@ A **engenharia de requisitos** é o processo de:
 
 ---
 
-## Hierarquia de Requisitos
-
-### Estrutura Hierárquica
 
 ![Requisitos de usuário e de sistema 
   Fonte: SOMMERVILLE(2018)](reqSysUser.png)
