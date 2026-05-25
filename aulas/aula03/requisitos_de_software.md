@@ -1,10 +1,10 @@
-# 🎯 Requisitos de Software: Guia Completo
+# Requisitos de Software
 
 > **Objetivo desta aula:** Compreender a importância dos requisitos na engenharia de software e diferenciar entre requisitos funcionais e não-funcionais.
 
 ---
 
-## 📑 Sumário
+## Sumário
 
 1. [O que é um Requisito?](#o-que-é-um-requisito)
 2. [Engenharia de Requisitos](#engenharia-de-requisitos)
@@ -24,9 +24,9 @@
 
 Um **requisito** é uma **condição imprescindível** para o preenchimento de determinado objetivo. Na engenharia de software, os requisitos representam:
 
-- ✅ **O que o sistema deve fazer**
-- ✅ **Os serviços que oferece**
-- ✅ **As restrições a seu funcionamento**
+- **O que o sistema deve fazer**
+- **Os serviços que oferece**
+- **As restrições a seu funcionamento**
 
 ---
 
@@ -41,13 +41,30 @@ A **engenharia de requisitos** é o processo de:
 3. **Documentar** - Registrar de forma clara e estruturada
 4. **Verificar** - Validar com as partes interessadas
 
-> 💡 **Dica:** A engenharia de requisitos é fundamental para o sucesso de qualquer projeto de software!
+> **Dica:** A engenharia de requisitos é fundamental para o sucesso de qualquer projeto de software!
 
 ---
 
+### Hierarquia de Requisitos
 
-![Requisitos de usuário e de sistema 
-  Fonte: SOMMERVILLE(2018)](reqSysUser.png)
+Na prática, o termo **requisito** é frequentemente utilizado de formas distintas dentro de um projeto:
+
+- Em alguns contextos, refere-se a **declarações abstratas e genéricas** de alto nível, descrevendo o que o sistema deve fazer de forma ampla;
+
+- Em outros, denota **especificações detalhadas e formais**, explicando precisamente como o sistema deve implementar essas funções.
+
+Essa inconsistência na nomenclatura pode gerar confusões durante o desenvolvimento. Para resolver esse problema, **Sommerville (2018)** propõe uma **distinção clara em dois níveis**:
+
+**1. Requisitos de Usuário (RU):** Descrições abstratas e compreensíveis para stakeholders não-técnicos, focando no que o sistema deve fazer do ponto de vista do usuário final
+
+**2. Requisitos de Sistema (RS):** Especificações formais e detalhadas, destinadas a arquitetos e desenvolvedores, descrevendo exatamente como o sistema implementará essas funcionalidades
+
+Essa hierarquia garante que todas as partes envolvidas no projeto (clientes, gerentes, técnicos) possam compreender e trabalhar com os requisitos em seu respectivo nível de abstração.
+
+![Requisitos de usuário e de sistema](reqSysUser.png)
+
+**Figura 1** - Hierarquia de Requisitos: Requisitos de Usuário e Requisitos de Sistema  
+**Fonte:** SOMMERVILLE, I. (2018). *Engenharia de Software*. 10ª edição. Pearson.
 
 ### Públicos de Cada Tipo
 
