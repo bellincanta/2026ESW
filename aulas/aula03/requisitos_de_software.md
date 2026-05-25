@@ -49,19 +49,8 @@ A **engenharia de requisitos** é o processo de:
 
 ### Estrutura Hierárquica
 
-```
-┌─────────────────────────────────────────────┐
-│   REQUISITOS DE USUÁRIO (Alto nível)       │
-│   → Abstratos e gerais                      │
-│   → Descrevem funções do sistema            │
-└──────────────┬──────────────────────────────┘
-               ↓
-┌─────────────────────────────────────────────┐
-│   REQUISITOS DE SISTEMA (Detalhados)       │
-│   → Formais e específicos                   │
-│   → Descrição precisa do comportamento      │
-└─────────────────────────────────────────────┘
-```
+![Requisitos de usuário e de sistema 
+  Fonte: SOMMERVILLE(2018)](reqSysUser.png)
 
 ### Públicos de Cada Tipo
 
