@@ -63,9 +63,11 @@ Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compro
 ### Aulas
 - [Aula 01](./aulas/aula01/introducao_engenharia_software.md)
 - [Aula 02](./aulas/aula02/processos_de_software.md)
-- [Aula 03](./aulas/aula03/requisitos_de_software.md)requisitos_de_software.md
+- [Aula 03](./aulas/aula03/requisitos_de_software.md)
 
 
 
 ### Atividades
-- [Atividade 01](./atividades/atv01/atv01.md)
+- [Atividade 01 - 1º Bim](./atividades/1ºBim/atv01/atv01.md)
+- [Atividade 01 - 2º Bim](./atividades/2ºBim/atv01/atv01.md)
+

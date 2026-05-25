@@ -311,25 +311,6 @@ Antes de finalizar seus requisitos, verifique:
 6. **Hierarquização** permite priorização e planejamento eficaz
 7. **Rastreabilidade** facilita a manutenção e evolução do software
 
-### Próximos Passos
-
-📖 **Estude as técnicas de elicitação de requisitos:**
-- Entrevistas com stakeholders
-- Workshops e brainstormings
-- Prototipagem
-- Análise de documentos existentes
-
-📊 **Aprenda ferramentas de documentação e rastreamento:**
-- Azure DevOps
-- Jira
-- IBM Rational DOORS
-- RequisitePro
-
-🔍 **Pratique a identificação de requisitos:**
-- Em projetos reais
-- Com diferentes domínios
-- Com diferentes stakeholders
-- Em diferentes contextos organizacionais
 
 ---
 
@@ -337,19 +318,5 @@ Antes de finalizar seus requisitos, verifique:
 
 - **Sommerville, I.** (2018). *Engenharia de Software*. 10ª edição. Pearson.
 - **Pressman, R. S.** (2010). *Engenharia de Software: uma abordagem profissional*. McGraw-Hill.
-- **Kotonya, G.; Sommerville, I.** (1998). *Requirements Engineering: Processes and Techniques*. Wiley.
 
 ---
-
-## 📝 Notas Finais
-
-Este documento serve como guia completo para compreensão de requisitos de software. A engenharia de requisitos é uma disciplina crítica que separa projetos bem-sucedidos de fracassos. Investir tempo e esforço na correta especificação de requisitos economiza recursos significativos no decorrer do projeto.
-
-**Lembre-se:** Um requisito bem definido é a base para um sistema bem desenvolvido!
-
----
-
-**Última atualização:** 2026  
-**Status:** ✨ Atualizado e dinâmico  
-**Versão:** 1.0
-
