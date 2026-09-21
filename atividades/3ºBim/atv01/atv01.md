@@ -29,7 +29,7 @@ As seções de Backlog do Produto, Matriz de Rastreabilidade, Glossário e Anexo
 
 - **Estudo de caso:** `atv01.md` (Sistema de Agendamento de Consultório Médico)
 - **Suas respostas da Atividade 01:** ponto de partida para os RF e RNF — revise e melhore o que for necessário
-- **Template LaTeX do SRS:** [📥 Baixar o template SRS 2.zip](SRS.zip) (importe no Overleaf em *New Project → Upload Project*)
+- **Template LaTeX do SRS:** [📥 Baixar o template SRS.zip](SRS.zip) (importe no Overleaf em *New Project → Upload Project*)
 
 O template contém exemplos de um **sistema de imobiliária** (RF01, RF02, RNF01 e UC01). Eles servem **apenas como modelo de estrutura**. Substitua todos os exemplos pelo conteúdo do sistema da clínica.
 
