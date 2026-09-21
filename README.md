@@ -64,7 +64,7 @@ Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compro
 - [Aula 01](./aulas/aula01/introducao_engenharia_software.md)
 - [Aula 02](./aulas/aula02/processos_de_software.md)
 - [Aula 03](./aulas/aula03/requisitos_de_software.md)
-- [Aula 04](./aulas/aula03/modelagem.md)
+- [Aula 04](./aulas/aula04/modelagem.md)
 
 
 
