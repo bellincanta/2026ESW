@@ -302,12 +302,6 @@ A generalização é o mesmo conceito de **herança** da orientação a objetos:
 
 *Figura 15 — Relacionamentos entre casos de uso e atores.*
 
-| | Associação | Generalização | Inclusão | Extensão |
-|---|:---:|:---:|:---:|:---:|
-| **Caso de uso e caso de uso** | — | ✔ | ✔ | ✔ |
-| **Ator e ator** | — | ✔ | — | — |
-| **Ator e caso de uso** | ✔ | — | — | — |
-
 ---
 
 ## 8. Boas práticas e erros comuns
