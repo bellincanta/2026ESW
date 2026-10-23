@@ -72,4 +72,5 @@ Ao cursar a disciplina, o(a) estudante declara estar ciente deste termo e compro
 - [Atividade 01 - 1º Bim](./atividades/1ºBim/atv01/atv01.md)
 - [Atividade 01 - 2º Bim](./atividades/2ºBim/atv01/atv01.md)
 - [Atividade 01 - 3º Bim](./atividades/3ºBim/atv01/atv01.md)
+- [Atividade 02 - 3º Bim](./atividades/3ºBim/atv02/atv02.md)
 
